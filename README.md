@@ -1,6 +1,6 @@
 # Radiology-Website-For-Processing-X-Ray-Images-Using-Deep-Learning  
   
-Realised as the Design and Development Project for school
+Realised as the Design and Development Project for ENSI
   
 ## Installation:  
     
