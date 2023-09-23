@@ -55,8 +55,3 @@ By default, the server will run on http://127.0.0.1:8000/. You can access this p
 ### Access the Admin Interface (Optional):  
   
 You can access the admin interface by going to http://127.0.0.1:8000/admin/ and logging in with the superuser credentials.  
-  
-  
-  
-[Full documentation of the project](https://docdro.id/e4gmBpy)
-      
